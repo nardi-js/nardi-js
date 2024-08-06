@@ -3,24 +3,8 @@
 
 ## Hi there 👋
 
-<!--
-**na55e/na55e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studying on Albukhary International University
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### 🔭 I’m currently studying on Albukhary International University
-### 🌱 I’m currently learning Javascript
-### 👯 I’m looking to collaborate on webdev
-### 🤔 I’m looking for help with my JavaScript
-### 📫 How to reach me: Linkdin and Email. 
+### 🔭 I’m studying on Albukhary International University as computer science student now !!
+### 🌱 I’m currently learning Javascript and react js.
+### 👯 I’m looking to collaborate on webdevelopment
+### 📫 You can reach me on Linkdin and Gmail. 
 ### 😄 Pronouns: Him/He
