@@ -3,8 +3,8 @@
 
 <h1 align="center">👋 Hi there! I'm Nardi</h1>
 <p align="center">
-  🌟 Computer Science Student at <strong>Albukhary International University</strong><br>
-  💻 Full Stack Web Developer specializing in building dynamic and responsive web applications.<br>
+  🌟 Developer Freelance that ready to develop modern and production ready web aplication<br>
+  💻 I am a Full Stack Web Developer specializing in building dynamic and responsive web applications.<br>
   🚀 I love transforming ideas into reality with modern technologies!
 </p>
 
