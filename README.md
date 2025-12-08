@@ -4,92 +4,92 @@
   Hi, I'm <span style="color:#29B6F6;">Nardi</span> 👋
 </h1>
 
-<!-- Mascot -->
-<p align="center">
-  <img src="https://github.com/nardi-js/nardi-js/blob/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg" width="180px">
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <p align="left" style="max-width: 380px;">
+        I'm a freelance developer and data enthusiast with a background in Computer Science.
+        I enjoy building simple, reliable tech solutions—whether it's fixing websites,
+        creating personal portfolios, or analyzing data using Python tools like Pandas and NumPy.
 
----
+        I combine AI tools with real coding practices to deliver practical, clean, and meaningful outcomes.
+        Still early in my journey, but learning consistently with a focus on clarity, honesty,
+        and continuous growth.
+      </p>
+    </td>
+    <td>
+      <img src="https://github.com/nardi-js/nardi-js/blob/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg" width="200">
+    </td>
+  </tr>
+</table>
 
-## 🚀 About Me
+<br>
 
-I'm a freelance developer and data enthusiast with a background in Computer Science. I enjoy building simple and reliable tech solutions—whether that means fixing websites, creating personal portfolios, or analyzing data using Python libraries like Pandas and NumPy.
-
-I combine AI tools with real coding practices to work efficiently and deliver clean, functional results. I'm still early in my journey, but I learn consistently and value clarity, honesty, and steady growth. Most of the work I do comes from real needs: helping something function smoother, look better, or produce insights faster. That’s where I feel most in flow—turning problems into practical outcomes.
-
----
-
-## 🎨 Core Tech Stack (Web Development)
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
-</p>
-
----
-
-## 📊 Data Science & Analytics Tools
+<h2>🎮 My Developer Stats (Gamified)</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
+  <img src="https://img.shields.io/badge/LEVEL-12-blue?style=for-the-badge&logo=gamejolt&logoColor=white">
+  <img src="https://img.shields.io/badge/XP-4,520-yellow?style=for-the-badge&logo=starship&logoColor=white">
+  <img src="https://img.shields.io/badge/RANK-Explorer-green?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-### Additional Skills  
-• Data Cleaning  
-• Exploratory Data Analysis  
-• Visualization (Matplotlib, Seaborn)  
-• Statistical Understanding  
-• Machine Learning Basics  
-• Spreadsheet Analysis (Excel, Sheets)
+<h3>🧿 Skill Attribute (RPG Pentagon)</h3>
 
----
+<pre>
+Frontend        ▣ ▣ ▣ ▣ ▢
+Backend         ▣ ▣ ▣ ▣ ▣
+Database        ▣ ▣ ▣ ▣ ▢
+AI & Data       ▣ ▣ ▣ ▣ ▢
+Problem Solving ▣ ▣ ▣ ▣ ▣
+</pre>
 
-## 🧩 Other Tools & Skills
+<br>
 
-• REST API Design  
-• Authentication (JWT, sessions, cookies)  
-• Git & GitHub workflow  
-• Linux & CLI  
-• Postman  
-• AI-assisted automation workflows  
-• Beginner Japanese (JLPT N5)  
-• Beginner Mandarin (HSK 1)
+<h2>🎨 Core Tech Stack (Web)</h2>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="65" style="filter: invert(1);">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65">
+</p>
 
-## 📚 Courses & Training
+<br>
 
-• Coursera — Data Analytics  
-• Coursera — Deep Learning  
-• Zero to Mastery — Node.js, Data Science, AI Fundamentals  
-• JavaScript Mastery — JavaScript & Next.js  
+<h2>📊 Data Science & Analytics Tools</h2>
 
----
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65">
+</p>
 
-## 🌱 Currently Learning
+<br>
 
-• TypeScript  
-• GraphQL  
-• Docker  
-• AWS Cloud Deployment  
-• Backend Architecture  
-• AI for Developers  
+<h2>🧩 Other Tools & Skills</h2>
 
----
+<ul>
+  <li>REST API Design</li>
+  <li>Authentication (JWT, sessions, cookies)</li>
+  <li>Git & GitHub workflow</li>
+  <li>Linux & CLI</li>
+  <li>Automation using AI workflows</li>
+  <li>Postman</li>
+  <li>Spreadsheet analysis (Excel, Sheets)</li>
+  <li>Japanese (JLPT N5)</li>
+  <li>Mandarin (HSK 1)</li>
+</ul>
 
-## 💬 Let's Connect
+<br>
 
-Portfolio: **https://nardinardi.me**
+<h2>💬 Portfolio</h2>
 
-Open for collaboration, freelance projects, or tech discussions.  
+<p>👉 <strong>https://nardinardi.me</strong></p>
+
 <p align="center"><strong>🚀 Let's build something valuable together.</strong></p>
