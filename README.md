@@ -17,7 +17,7 @@
       </p>
     </td>
     <td>
-      <img src="https://github.com/nardi-js/nardi-js/blob/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg" width="200">
+      <img src="https://github.com/nardi-js/nardi-js/blob/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg" width="1000">
     </td>
   </tr>
 </table>
