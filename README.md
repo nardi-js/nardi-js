@@ -52,9 +52,24 @@ Problem Solving ▣ ▣ ▣ ▣ ▣
 
 <h2>📊 Data Science & Analytics Tools</h2>
 
+<h2>📊 Data Science & Analytics Tools</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow,sklearn,jupyter,sqlite" />
+
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" />
+
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" style="padding:6px; background:#1e1e1e; border-radius:12px;" />
+
+  <!-- Pandas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" style="padding:6px; background:#1e1e1e; border-radius:12px;" />
+
+  <!-- Tensorflow, sklearn, jupyter, sqlite -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,jupyter,sqlite" />
+
 </p>
+
 
 <h2>🐍 My GitHub Contribution Snake</h2>
 
