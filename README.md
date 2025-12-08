@@ -6,7 +6,7 @@
 
 <!-- Mascot -->
 <p align="center">
-  <img src="[REPLACE_WITH_YOUR_MASKOT_LINK](https://github.com/nardi-js/nardi-js/blob/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg)" width="180px">
+  <img src="https://github.com/nardi-js/nardi-js/blob/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg" width="180px">
 </p>
 
 ---
