@@ -22,9 +22,9 @@
 
 ## 🚀 About Me
 
-I’m a freelance developer and data enthusiast with a background in Computer Science. I focus on building simple, reliable, and functional solutions—whether it’s fixing websites, creating personal portfolios, or analyzing data with Python tools like Pandas, NumPy, and visualization libraries.
+I’m a freelance developer and data enthusiast with a background in Computer Science. I focus on building simple, reliable, and functional solutions whether it’s fixing websites, creating personal portfolios, or analyzing data with Python tools like Pandas, NumPy, and visualization libraries.
 
-My workflow combines AI tools with real coding, helping me work efficiently without sacrificing quality. I’m still early in my journey, but I’m a consistent learner who values clarity, honesty, and steady growth. Most of the projects I work on come from real needs: making something work better, look cleaner, or deliver insights faster. That’s where I feel at home—turning problems into practical, usable results.
+My workflow combines AI tools with real coding, helping me work efficiently without sacrificing quality. I’m still early in my journey, but I’m a consistent learner who values clarity, honesty, and steady growth. Most of the projects I work on come from real needs: making something work better, look cleaner, or deliver insights faster. That’s where I feel at home turning problems into practical, usable results.
 
 ---
 
