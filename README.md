@@ -71,6 +71,14 @@ Problem Solving ▣ ▣ ▣ ▣ ▣
 
 <br>
 
+<h2>🐍 My GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+<br>
+
 <h2>🧩 Other Tools & Skills</h2>
 
 <ul>
