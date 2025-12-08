@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center" style="font-size:16px; color:#90CAF9;">
-  <strong>Full Stack Web Developer • AI & Data Enthusiast • Tech Professional</strong><br>
-  I build modern applications using the MERN stack, backend engineering, automation, and data science.
+  <strong>Full Stack Web Developer • AI & Data Enthusiast • Tech Professional in Progress</strong><br>
+  I build modern applications using the MERN stack, automation tools, and data-driven workflows.
 </p>
 
 <p align="center">
@@ -22,13 +22,13 @@
 
 ## 🚀 About Me
 
-I'm **Nardi**, a Computer Science final-year student in Malaysia (full scholarship), passionate about **full-stack web development**, **backend engineering**, **AI**, and **data science**.
+I’m a freelance developer and data enthusiast with a background in Computer Science. I focus on building simple, reliable, and functional solutions—whether it’s fixing websites, creating personal portfolios, or analyzing data with Python tools like Pandas, NumPy, and visualization libraries.
 
-I build production-ready systems and continuously improve myself through a structured learning system I call **System Nardi**, focusing on discipline, skill mastery, and becoming a world-class tech professional.
+My workflow combines AI tools with real coding, helping me work efficiently without sacrificing quality. I’m still early in my journey, but I’m a consistent learner who values clarity, honesty, and steady growth. Most of the projects I work on come from real needs: making something work better, look cleaner, or deliver insights faster. That’s where I feel at home—turning problems into practical, usable results.
 
 ---
 
-## 🎨 My Core Tech Stack (Web Development)
+## 🎨 Core Tech Stack (Web Development)
 
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -61,31 +61,31 @@ I build production-ready systems and continuously improve myself through a struc
 ### Additional Skills  
 • Data Cleaning  
 • Data Visualization  
-• Statistical Analysis  
-• Exploratory Data Analysis (EDA)  
-• Machine Learning Basics (Regression, Classification)  
+• Exploratory Data Analysis  
+• Statistical Understanding  
+• Machine Learning Basics  
 
 ---
 
-## 🧩 Other Skills
+## 🧩 Other Skills & Tools
 
 • REST API Design  
-• Auth (JWT, Cookies, Sessions)  
+• Auth (JWT, sessions, cookies)  
 • Git & GitHub workflow  
 • Linux & CLI  
 • Postman API testing  
-• Productivity systems & automation  
+• Automation & AI-assisted workflows  
 • Beginner Japanese (JLPT N5)  
-• Beginner Chinese (HSK 1)
+• Beginner Mandarin (HSK 1)
 
 ---
 
-## 📚 Courses & Certifications
+## 📚 Courses & Training
 
-• Coursera – Data Analytics  
-• Coursera – Deep Learning  
-• Zero To Mastery – Node.js / Data Science / AI Basics  
-• JavaScript Mastery – JS & Next.js  
+• Coursera — Data Analytics  
+• Coursera — Deep Learning  
+• Zero to Mastery — Node.js, Data Science, AI Fundamentals  
+• JavaScript Mastery — JavaScript, Next.js  
 
 ---
 
@@ -100,20 +100,11 @@ I build production-ready systems and continuously improve myself through a struc
 
 ---
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nardi-js&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nardi-js&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💬 Let's Connect
 
 Check out my personal portfolio here:  
 👉 **https://nardinardi.me**
 
-Open for collaboration, freelance projects, and tech discussions.
+Open for collaboration, freelance work, and meaningful conversations about technology and data.
 
-<p align="center"><strong>🚀 Let's build something amazing together.</strong></p>
+<p align="center"><strong>🚀 Let's build something valuable together.</strong></p>
