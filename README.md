@@ -44,38 +44,24 @@ Problem Solving ▣ ▣ ▣ ▣ ▣
 
 <br>
 
-<h2>🎨 Core Tech Stack (Web)</h2>
+<h2>⚙️ Core Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="65" style="filter: invert(1);">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65">
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,next,react,redux,vite,express,nodejs,postgres,azure,mongodb,graphql,vercel" />
 </p>
-
-<br>
 
 <h2>📊 Data Science & Analytics Tools</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,tensorflow,sklearn,jupyter,sqlite" />
 </p>
-
-<br>
 
 <h2>🐍 My GitHub Contribution Snake</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
 
 <br>
 
