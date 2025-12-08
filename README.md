@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#4FC3F7;">
-  <img src="https://github.com/user-attachments/assets/00f80d47-6128-4d56-a298-d663e09dec49" width="100%">
+  <img src="https://github.com/nardi-js/nardi-js/blob/main/Nardi-banner.jpg" width="100%">
   <br>
   Hi, I'm <span style="color:#29B6F6;">Nardi</span> 👋
 </h1>
