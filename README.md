@@ -47,7 +47,7 @@ Problem Solving ▣ ▣ ▣ ▣ ▣
 <h2>⚙️ Core Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,next,react,redux,vite,express,nodejs,postgres,azure,mongodb,graphql,vercel" />
+  <img src="https://skillicons.dev/icons?i=ts,tailwind,next,react,redux,vite,express,nodejs,postgres,mongodb,graphql,vercel,firebase" />
 </p>
 
 <h2>📊 Data Science & Analytics Tools</h2>
