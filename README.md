@@ -80,17 +80,6 @@
 
 <br>
 
-<h2>🐍 GitHub Contribution Snake</h2>
-
-<img src="https://raw.githubusercontent.com/nardi-js/nardi-js/output/snake.svg" alt="Snake animation" />
-
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nardi-js/nardi-js/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nardi-js/nardi-js/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nardi-js/nardi-js/output/pacman-contribution-graph.svg">
-</picture>
 
 <h2>🧩 Other Skills</h2>
 
@@ -103,7 +92,17 @@
   <li>Japanese (JLPT N5) & Mandarin (HSK 1)</li>
 </ul>
 
+
 <br>
+
+
+<h2>🐍 GitHub Contribution Snake</h2>
+
+![snake](https://raw.githubusercontent.com/nardi-js/nardi-js/output/snake.svg#gh-light-mode-only)
+![snake](https://raw.githubusercontent.com/nardi-js/nardi-js/output/snake.svg#gh-dark-mode-only)
+
+<br>
+
 
 <h2>🌐 Portfolio</h2>
 
