@@ -8,16 +8,18 @@
   <tr>
     <td>
       <p align="left" style="max-width: 380px;">
-        I'm a freelance developer and data enthusiast with a background in Computer Science.
-        I focus on building clean, reliable, and scalable solutions ranging from
-        full-stack web applications to data-driven insights using Python.
-        I enjoy simplifying problems, improving user experience, and turning ideas 
-        into functional products.
+      I'm a freelance developer and data enthusiast with a background in Computer Science. 
+      I focus on building clean, reliable, and scalable solutions from full-stack web 
+      applications to data-driven insights using Python. I enjoy simplifying complex 
+      problems, improving user experience, and turning ideas into functional products. 
+      I approach every project with curiosity, attention to detail, and a commitment to 
+      continuous learning, ensuring that each solution not only works, but adapts and grows 
+      with user needs.
       </p>
     </td>
     <td>
-      <img src="https://github.com/nardi-js/nardi-js/blob/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg"
-           width="1500"
+      <img src="https://github.com/nardi-js/nardi-js/blob/main/be9a455b-9c6f-4e60-8944-779be4ecfa4a.png"
+           width="1000"
            style="border-radius: 12px;" />
     </td>
   </tr>
@@ -39,6 +41,8 @@
 
 <h2>⚙️ Core Tech Stack</h2>
 
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,tailwind,next,react,redux,vite,express,nodejs,postgres,mongodb,graphql,vercel,firebase" />
 </p>
@@ -46,6 +50,8 @@
 <br>
 
 <h2>📊 Data Science & Analytics Tools</h2>
+
+
 
 <p align="center">
 
@@ -87,6 +93,7 @@
   <li>REST API Architecture</li>
   <li>Authentication (JWT, sessions)</li>
   <li>Linux & Command Line</li>
+  <li>Ubuntu User<li>
   <li>Spreadsheet Analysis (Excel, Sheets)</li>
   <li>Postman & API testing</li>
   <li>Japanese (JLPT N5) & Mandarin (HSK 1)</li>
