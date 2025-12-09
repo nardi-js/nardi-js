@@ -9,96 +9,92 @@
     <td>
       <p align="left" style="max-width: 380px;">
         I'm a freelance developer and data enthusiast with a background in Computer Science.
-        I enjoy building simple, reliable tech solutions—whether it's fixing websites,
-        creating personal portfolios, or analyzing data using Python tools like Pandas and NumPy.
-        I combine AI tools with real coding practices to deliver practical, clean, and meaningful outcomes.
-        Still early in my journey, but learning consistently with a focus on clarity, honesty,
-        and continuous growth.
+        I focus on building clean, reliable, and scalable solutions ranging from
+        full-stack web applications to data-driven insights using Python.
+        I enjoy simplifying problems, improving user experience, and turning ideas 
+        into functional products.
       </p>
     </td>
     <td>
-      <img src="https://github.com/nardi-js/nardi-js/blob/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg" width="1000">
+      <img src="https://github.com/nardi-js/nardi-js/blob/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg"
+           width="180"
+           style="border-radius: 12px;" />
     </td>
   </tr>
 </table>
 
 <br>
 
-<h2>🎮 My Developer Stats (Gamified)</h2>
+<h2>📌 What I Do</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-12-blue?style=for-the-badge&logo=gamejolt&logoColor=white">
-  <img src="https://img.shields.io/badge/XP-4,520-yellow?style=for-the-badge&logo=starship&logoColor=white">
-  <img src="https://img.shields.io/badge/RANK-Explorer-green?style=for-the-badge&logo=github&logoColor=white">
-</p>
-
-<h3>🧿 Skill Attribute (RPG Pentagon)</h3>
-
-<pre>
-Frontend        ▣ ▣ ▣ ▣ ▢
-Backend         ▣ ▣ ▣ ▣ ▣
-Database        ▣ ▣ ▣ ▣ ▢
-AI & Data       ▣ ▣ ▣ ▣ ▢
-Problem Solving ▣ ▣ ▣ ▣ ▣
-</pre>
+<ul>
+  <li>Build full-stack applications using React, Next.js, Node.js, and MongoDB</li>
+  <li>Create modern, responsive UI with Tailwind CSS</li>
+  <li>Automate workflows using Python + AI tools</li>
+  <li>Perform data analysis with Pandas, NumPy, and visualization libraries</li>
+  <li>Develop APIs, authentication systems, and scalable backend logic</li>
+</ul>
 
 <br>
 
-<h2>⚙️ Core Tech Stack & Tools</h2>
+<h2>⚙️ Core Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,tailwind,next,react,redux,vite,express,nodejs,postgres,mongodb,graphql,vercel,firebase" />
 </p>
 
-<h2>📊 Data Science & Analytics Tools</h2>
+<br>
 
 <h2>📊 Data Science & Analytics Tools</h2>
 
-<p align="center">
+<div align="center" style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
 
-  <!-- Python -->
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" height="55" />
 
-  <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" style="padding:6px; background:#1e1e1e; border-radius:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+       height="55"
+       style="padding:6px;background:#1e1e1e;border-radius:12px;" />
 
-  <!-- Pandas -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" style="padding:6px; background:#1e1e1e; border-radius:12px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+       height="55"
+       style="padding:6px;background:#1e1e1e;border-radius:12px;" />
 
-  <!-- Tensorflow, sklearn, jupyter, sqlite -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,jupyter,sqlite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+       height="55"
+       style="padding:6px;background:#1e1e1e;border-radius:12px;" />
 
-</p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,sqlite" height="55" />
 
-
-<h2>🐍 My GitHub Contribution Snake</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake.svg">
-</picture>
-
+</div>
 
 <br>
 
-<h2>🧩 Other Tools & Skills</h2>
+<h2>🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<br>
+
+<h2>🧩 Other Skills</h2>
 
 <ul>
-  <li>REST API Design</li>
-  <li>Authentication (JWT, sessions, cookies)</li>
-  <li>Git & GitHub workflow</li>
-  <li>Linux & CLI</li>
-  <li>Automation using AI workflows</li>
-  <li>Postman</li>
-  <li>Spreadsheet analysis (Excel, Sheets)</li>
-  <li>Japanese (JLPT N5)</li>
-  <li>Mandarin (HSK 1)</li>
+  <li>REST API Architecture</li>
+  <li>Authentication (JWT, sessions)</li>
+  <li>Linux & Command Line</li>
+  <li>Spreadsheet Analysis (Excel, Sheets)</li>
+  <li>Postman & API testing</li>
+  <li>Japanese (JLPT N5) & Mandarin (HSK 1)</li>
 </ul>
 
 <br>
 
-<h2>💬 Portfolio</h2>
+<h2>🌐 Portfolio</h2>
 
 <p>👉 <strong>https://nardinardi.me</strong></p>
 
