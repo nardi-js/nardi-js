@@ -47,25 +47,36 @@
 
 <h2>📊 Data Science & Analytics Tools</h2>
 
-<div align="center" style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
+<p align="center">
 
-  <img src="https://skillicons.dev/icons?i=python" height="55" />
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" height="55">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-       height="55"
-       style="padding:6px;background:#1e1e1e;border-radius:12px;" />
+  <!-- NumPy -->
+  <span style="display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
+         height="55"
+         style="padding:6px;background:#1e1e1e;border-radius:12px;" />
+  </span>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-       height="55"
-       style="padding:6px;background:#1e1e1e;border-radius:12px;" />
+  <!-- Pandas -->
+  <span style="display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+         height="55"
+         style="padding:6px;background:#1e1e1e;border-radius:12px;" />
+  </span>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
-       height="55"
-       style="padding:6px;background:#1e1e1e;border-radius:12px;" />
+  <!-- Jupyter (custom icon – not in skillicons) -->
+  <span style="display:inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"
+         height="55"
+         style="padding:6px;background:#1e1e1e;border-radius:12px;" />
+  </span>
 
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,sqlite" height="55" />
+  <!-- TensorFlow, sklearn, SQLite -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,sqlite" height="55">
 
-</div>
+</p>
 
 <br>
 
