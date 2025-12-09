@@ -17,7 +17,7 @@
     </td>
     <td>
       <img src="https://github.com/nardi-js/nardi-js/blob/main/c274d7bd-f8de-4384-bf08-b56c77f0282f.jpg"
-           width="180"
+           width="1500"
            style="border-radius: 12px;" />
     </td>
   </tr>
@@ -85,6 +85,12 @@
 <img src="https://raw.githubusercontent.com/nardi-js/nardi-js/output/snake.svg" alt="Snake animation" />
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nardi-js/nardi-js/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nardi-js/nardi-js/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nardi-js/nardi-js/output/pacman-contribution-graph.svg">
+</picture>
 
 <h2>🧩 Other Skills</h2>
 
