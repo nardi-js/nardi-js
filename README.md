@@ -82,13 +82,7 @@
 
 <h2>🐍 GitHub Contribution Snake</h2>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/nardi-js/nardi-js/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+<img src="https://raw.githubusercontent.com/nardi-js/nardi-js/output/snake.svg" alt="Snake animation" />
 
 <br>
 
